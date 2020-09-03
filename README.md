@@ -1,6 +1,6 @@
-## last name:
-## first name:
-## github username:
+## last name: baerga
+## first name: lisa
+## github username: msbaergacs
 ---------------------
 ### general workflow:
 0. Fill out the top of this form, commit and push it back to GitHub.
@@ -9,3 +9,6 @@
    * Add files, commit and push them up to Github.
    * Commit frequently as you work.
 
+**Link to [Main Page](https://github.com/hunter-teacher-cert/fall-2020-ethics)**
+
+**Link to [Syllabus](https://github.com/hunter-teacher-cert/syllabus-CSCI77800-ethics)**
