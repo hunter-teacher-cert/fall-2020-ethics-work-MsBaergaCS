@@ -30,4 +30,4 @@ For these reasons, I have elected not to incorporate the use of a mandatory scre
 My priority is to keep everyone as safe as possible during these difficult times. However, the rights of individuals matter as well. If you have additional questions or concerns, please don't hesitate to reach out.
 
 Best,
-Lisa
+Ms B
