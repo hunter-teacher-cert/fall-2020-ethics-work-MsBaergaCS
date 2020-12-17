@@ -1,0 +1,7 @@
+The topics that I'm most interested in addressing in this course by means of a term project are:
+
+5 - Sentencing algorithms (I love this topic, because I hate this topic, but I think it might be a little too much to address with some students. In particular those who have experience with the criminal justice system, either themselves or through friends/family members.
+4 - Surveillance - I love this topic but the concept doesn't seem to lend itself toward coding activities.
+3 - Political shenanigans (A la the Cambridge Analytica situation)
+2 - Facial recognition/bias in algorithms - I like this but struggle to find a way to align coding with it.
+1 - Fake news - this seems likely to make the most impact. To have the most 'bang for my buck' in terms of the difference it could make in terms of students understanding of society.
