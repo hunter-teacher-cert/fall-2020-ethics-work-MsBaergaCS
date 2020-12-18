@@ -1,0 +1,48 @@
+
+
+Individuals should have their rights enshrined in a document not unlike that of the bill of rights. When considering what rights people have to
+privacy, and when and how these rights should be applied, both individual and collective considerations must be made, with respect to data. 
+The right to privacy is something which, to a great extent, has been ceeded in this country. We have, bit by bit, allowed more and more of our
+information to be gathered, accepting that less and less is guaranteed to be private, as if this is inevitable. That is not the case. While it is 
+certainly true that, in this country, privacy rights have been neglected to a great extent. It does not need to be this way. We can, and should, 
+take action to ensure that future generations not only retain, but, in fact, regain rights to privacy. 
+
+Who guarantees these rights? 
+In this country, for the most part, privacy rights are an afterthought. Just by virtue of use of an app, individual users have signed away 
+significant rights, and for the most part unawares. For this reason, Privacy Rights can and should be championed by the government. 
+Individual corporations have not been and are unlikely to do the right thing, because, while the data that they are combing from individual users
+has limited use individually, but when collected into a mass, holds great meaning and great value. They are financially disincentivized from
+acting in a way that benefits the user. 
+
+What rights should an individual be entitled to?
+
+1. Education
+Any attempt to enshrine a right to privacy among the people must necessarily begin with an educated populace. You cannot exercise a right,
+or fight for one, that is not understood. To that end, the first right must be the right to an education about/an understanding of the topic. 
+Individuals have the right to understand their rights. In the first place, it is crucial that individuals have an understanding of what privacy 
+rights are, what is given up when users give up their data, and what is to be gained by keeping it. Similarly, it is crucial to have an honest 
+conversation about what can be determined from data, even when it has been 'anonymized'. An individual cannot make an informed decision, if they
+have never been adequately educated about a topic in the first place. Further, the implications of the data use should be made clear -  
+financial, social, and otherwise.
+
+2. Right to Encryption
+Presuming the populace is educated, the first right should be a right to encryption. The government shall not infringe upon an individual's right
+to encrypt their data and information, at their discretion. 
+
+3. The Right to be Free from Surveillance
+An individual should be assured that they should not be actively tracked, and that the data garnered from individual activities should not be stored
+for a longer period than is needed to perform the service for which it was first generated.
+
+4. The Right to be Forgotten
+In some countries, for example those in the EU and Argentina, citizens have the right to have their digital footprint erased, at their request.
+While imperfect, it allows individuals to request personal information to be removed from online servers, and search results. When information,
+which can include images, content, and videos, is removed, it can not be found online.  It will also be removed from search results. Individuals 
+should be able to request that data about them is removed from an organisation’s database – without requiring a reason. 
+
+5. The Right to Anonymity
+When providing access to a database, even an anonymized one, individual users with data in the database should have the right to request removal.
+Even anonymized data can, when combined with other data sets, be deanonymized. 
+
+6. Right to Opt IN
+Instead of a default opt-in assumption garnered in fine print by virtue of using a service, individual users should need to actively choose 
+to give their data to companies.
